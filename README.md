@@ -30,7 +30,7 @@ November &ensp;1:  Package management via PiP and Conda
 November &ensp;8:  Efficient Python programming with NumPy   
 November 15:  Plotting with Matplotlib    
 November 29:  3-D Rendering with Mayavi  
-December 6 :  H5Py  
+December &nbsp;6:  H5Py  
 December 13:  Mixing compiled code with Python (F2Py and Cython)
 
 ### Reference Material:  
