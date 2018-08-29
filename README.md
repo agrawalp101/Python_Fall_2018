@@ -24,10 +24,10 @@ October &nbsp;&ensp;&emsp; 4:  Overview, 'Hello World!,' variables and assignmen
 October &ensp;&emsp;11:  Conditionals, functions  
 October &ensp;&emsp;18:  Loops, lists, tuples, dictionaries  
 October &ensp;&emsp;25:  Objects, methods, modules  
-November 1:  Package management via PiP and Conda
+November &ensp;1:  Package management via PiP and Conda
 
 ### Part 2:  Useful Python Packages 
-November  8:  Efficient Python programming with NumPy   
+November &ensp;8:  Efficient Python programming with NumPy   
 November 15:  Plotting with Matplotlib    
 November 29:  3-D Rendering with Mayavi  
 December 6 :  H5Py  
