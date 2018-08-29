@@ -16,7 +16,7 @@ Norlin Library Room E206
 ### Description:  
 This workshop series will provide a brief overview of Python programming and some research-useful Python packages. This course will not cover “how to program;"  it is expected that all attendees have introductory-level experience in at least one other programming language. 
 
-Attenddees should follwo
+Attendees should refer to the software_installation.pdf file in this repository for instructions on installing Python using the Conda environment manager.  Should you need one-on-one help installing Python/Conda, please drop in on the optional, September 20th session.  Alternatively, email and set up a time to drop by my office in ARC 677.
 
 ### Part 1:  Python Essentials
 September 20:  Python installation help (Optional; walk-in)
