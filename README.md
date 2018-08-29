@@ -19,11 +19,11 @@ This workshop series will provide a brief overview of Python programming and som
 Attendees should refer to the software_installation.pdf file in this repository for instructions on installing Python using the Conda environment manager.  Should you need one-on-one help installing Python/Conda, please drop in on the optional, September 20th session.  Alternatively, email and set up a time to drop by my office in ARC 677.
 
 ### Part 1:  Python Essentials
-September 20:  Python installation help (Optional; walk-in)
-October  4:  Overview, 'Hello World!,' variables and assignment  
-October 11:  Conditionals, functions  
-October 18:  Loops, lists, tuples, dictionaries  
-October 25:  Objects, methods, modules  
+September 20:  Python installation help (Optional; walk-in)  
+October &nbsp;&ensp;&emsp; 4:  Overview, 'Hello World!,' variables and assignment  
+October &ensp;&emsp;11:  Conditionals, functions  
+October &ensp;&emsp;18:  Loops, lists, tuples, dictionaries  
+October &ensp;&emsp;25:  Objects, methods, modules  
 November 1:  Package management via PiP and Conda
 
 ### Part 2:  Useful Python Packages 
