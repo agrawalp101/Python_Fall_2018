@@ -24,7 +24,7 @@ October &nbsp;&ensp;&emsp; 4:  Overview, 'Hello World!,' variables and assignmen
 October &ensp;&emsp;11:  Conditionals, functions  
 October &ensp;&emsp;18:  Loops, lists, tuples, dictionaries  
 October &ensp;&emsp;25:  Objects, methods, modules  
-November &ensp;1:  Package management via PiP and Conda
+November &nbsp;&ensp;1:  Package management via PiP and Conda
 
 ### Part 2:  Useful Python Packages 
 November &ensp;8:  Efficient Python programming with NumPy   
