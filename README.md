@@ -16,7 +16,10 @@ Norlin Library Room E206 (CRDDS)
 ### Description:  
 This workshop series will provide a brief overview of Python programming and some research-useful Python packages. This course will not cover “how to program;" attendees are expected to have introductory-level experience in at least one other programming language. 
 
-Please refer to the software_installation.pdf file in this repository for instructions on installing Python using the Conda environment manager.  If you need one-on-one help installing Python/Conda, please drop by during the optional, September 20th session.  Alternatively, send me an email, and we can set up a time to meet in my office (ARC 677; east campus).
+### Prerequisites
+The lessons in this course are interactive in nature.  In order to attend this class, you will need a laptop with a working Python installation and the following Python packages installed:  NumPy, Matplotlib, Mayavi, H5Py, F2Py, and Cython.
+
+The most straightforward way to install this software via the Conda environment managers.  Please refer to the software_installation.pdf file in this repository for instructions on installing Conda, Python, and the required packages.  If you need one-on-one help with the installationp rocess, please drop by during the optional, September 20th session.  Alternatively, feel free to send me an email, and we can set up a time to meet in my office (ARC 677; east campus).
 
 ### Part 1:  Python Essentials
 Sep. 20: &nbsp;Python installation help (Optional; walk-in)  
