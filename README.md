@@ -22,7 +22,7 @@ The lessons in this course are interactive in nature.  In order to particpate, y
 The most straightforward way to install this software is via the Conda environment manager.  Please refer to the software_installation.pdf file in this repository for instructions on installing Conda, Python, and the necesssary packages.  If you need one-on-one help with the installation process, please drop by during the optional, September 20th session.  Alternatively, feel free to send me an email, and we can set up a time to meet in my office (ARC 677; east campus).
 
 ### Part 1:  Python Essentials
-Sep. 20: &nbsp;Python installation help (Optional; walk-in)  
+Sep. 20: &nbsp;Python installation help (optional; walk-in)  
 Oct. &nbsp; 4: &ensp;Overview, 'Hello World!,' variables and assignment  
 Oct. 11: &ensp;Conditionals, functions  
 Oct. 18:  &ensp;Loops, lists, tuples, dictionaries  
