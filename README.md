@@ -7,16 +7,16 @@ ARC 677
 
 ### Date & Time:
 Thursdays 10:00 am - 11:30 am  
-*Note:  The April 4th class will run from 10:30 am to 12:00 pm due to room availability*
+
 
 ### Location:
-Norlin Library Room E206  
+Norlin Library Room E206 (CRDDS)
 
 
 ### Description:  
-This workshop series will provide a brief overview of Python programming and some research-useful Python packages. This course will not cover “how to program;"  it is expected that all attendees have introductory-level experience in at least one other programming language. 
+This workshop series will provide a brief overview of Python programming and some research-useful Python packages. This course will not cover “how to program;" attendees are expected to have introductory-level experience in at least one other programming language. 
 
-Attendees should refer to the software_installation.pdf file in this repository for instructions on installing Python using the Conda environment manager.  Should you need one-on-one help installing Python/Conda, please drop in on the optional, September 20th session.  Alternatively, email and set up a time to drop by my office in ARC 677.
+Please refer to the software_installation.pdf file in this repository for instructions on installing Python using the Conda environment manager.  If you need one-on-one help installing Python/Conda, please drop by during the optional, September 20th session.  Alternatively, send me an email, and we can set up a time to meet in my office (ARC 677; east campus).
 
 ### Part 1:  Python Essentials
 Sep. 20: &nbsp;Python installation help (Optional; walk-in)  
