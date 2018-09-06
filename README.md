@@ -1,4 +1,4 @@
-## RC Python Workshop Series (Spring 2018)
+## RC Python Workshop Series (Fall 2018)
 
 ### Instructor:
 Nick Featherstone 
