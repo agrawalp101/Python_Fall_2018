@@ -8,17 +8,17 @@ Write a program that reads the information contained in this file and then asks 
 
 ### 2.  Parity
 
-Enter Integer 1: 1
-Enter Integer 2: 2
-Enter Integer 3: 3
+Enter Integer 1: 1  
+Enter Integer 2: 2  
+Enter Integer 3: 3  
 
-You supplied the numbers:  1 2 3
-Their sum is 6.
+You supplied the numbers:  1 2 3  
+Their sum is 6.  
 
-There are 2 odd numbers.
-They are:  1  3
-Their sum is 4.
+There are 2 odd numbers.  
+They are:  1  3  
+Their sum is 4.  
 
-There are 1 even numbers.
-They are:   2 
-Their sum is 2.
+There are 1 even numbers.  
+They are:   2   
+Their sum is 2.  
