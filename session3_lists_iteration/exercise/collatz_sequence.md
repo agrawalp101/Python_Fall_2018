@@ -8,9 +8,9 @@ The sequence of numbers generated according to these rules is known as the Colla
 
 Write a function that returns the Collatz sequence of a given number.  The sequence should be returned as a list of numbers.
 
-For example, if we evaluation collatz_seq(5), we should get:  
-[ 5,16,8,4,2,1 ]
+For example, evaluating collatz_seq(5) should return the list   
+[ 5,16,8,4,2,1 ], 
 
-collatz_seq(20) will yield:  
+and collatz_seq(20) should yield  
 [ 20, 10, 5, 16, 8, 4, 2, 1 ] .
 
