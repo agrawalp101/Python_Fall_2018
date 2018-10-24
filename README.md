@@ -32,9 +32,9 @@ Nov. &nbsp;1:  &ensp;Package management via PiP and Conda
 ### Part 2:  Useful Python Packages 
 Nov. &nbsp;8: &ensp;Efficient Python programming with NumPy   
 Nov. 15:  &ensp;Plotting with Matplotlib    
-Nov. 29:  &ensp;3-D Rendering with Mayavi  
+Nov. 29:  &ensp;Mixing compiled code with Python (F2Py and Cython)
 Dec. &nbsp;6:  &nbsp;&ensp;H5Py  
-Dec. 13:  &ensp;Mixing compiled code with Python (F2Py and Cython)
+Dec. 13:  &ensp;3-D Rendering with Mayavi  
 
 ### Reference Material:  
 [How to Think Like a Computer Scientist (FREE online text)](http://openbookproject.net/thinkcs/python/english3e/)  
